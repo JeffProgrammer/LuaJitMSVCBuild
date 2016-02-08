@@ -1,6 +1,6 @@
 @rem Script to build LuaJIT with MSVC.
 @rem Copyright (C) 2005-2015 Mike Pall. See Copyright Notice in luajit.h
-@rem Edited by Jeff Hutchinson Copyright (c) 2016. Same License as LuaJIT
+@rem Portions Copyright (c) 2016 Jeff Hutchinson. Same License as LuaJIT.
 @rem
 @rem Either open a "Visual Studio .NET Command Prompt"
 @rem (Note that the Express Edition does not contain an x64 compiler)
@@ -13,7 +13,7 @@
 @rem Then cd to this directory and run this script.
 @rem
 @rem Jeff Edits:
-@rem to build static CRC luaJIT libraries, type the following:
+@rem to build static CRT luaJIT libraries, type the following:
 @rem msvcbuild static debug
 @rem msvcbuild static ndebug
 
