@@ -6,7 +6,7 @@ This successfully builds debug and release static libraries (.lib files) for Vis
 # License
 ```
 Copyright (C) 2005-2015 Mike Pall.
-Portions Copyright (c) Jeffrey Hutchinson 2016.
+Portions Copyright (c) 2016 Jeffrey Hutchinson.
 
 MIT License. See COPYRIGHT for more information.
 ```
